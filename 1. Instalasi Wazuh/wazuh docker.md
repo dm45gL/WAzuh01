@@ -54,6 +54,10 @@ Ubah `max_map_count` pada host
     apt install docker.io
     ```
 
+
+
+
+
 2. Command untuk instalasi Wazuh (single node)
 Clone repository Wazuh on Docker
     
