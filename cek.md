@@ -2,7 +2,8 @@ Agar data dapat ditampilkan ke dalam visualisasi, data harus dalam tipa data dou
 
 Tambahkan custom field pada Wazuh template, custom field ini akan mendefinisikan data dengan tipe data baru (double)
 
-```nano /etc/filebeat/wazuh-template.json
+```
+nano /etc/filebeat/wazuh-template.json
 ```
 
 Tambahkan parameter dalam comment
