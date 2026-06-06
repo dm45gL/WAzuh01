@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 
 import sys
@@ -119,4 +118,4 @@ requests.post(
 )
 
 sys.exit(0)
-```
+
